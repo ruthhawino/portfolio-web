@@ -1,0 +1,105 @@
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: yellow;
+}
+
+.st1{
+    text-align: center;
+}
+.navbar{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    background-color:yellow;
+    font-size: x-large;
+    text-decoration: none;
+    color: white;
+}
+
+
+.navbar {
+    background-color: rgb(44, 6, 105);
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  .navbar a:hover {
+    background-color: white;
+    color: rgb(44, 6, 105);
+  }
+  
+
+.port{
+    display: flex;
+    gap: 10%;
+    border: 0px;
+    box-sizing: border-box;
+    background-color: rgb(44, 6, 105);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    border-radius: 5%;
+    font-size: x-large;
+    text-decoration: solid;
+    color:rgb(244, 244, 248);
+
+}
+.design{
+    margin-left: 9%;
+}
+
+.rt{
+    width: 5%;
+    height: 3%;
+}
+
+.name{
+    color:yellow;
+}
+.pic1{
+    width: 85%;
+    height: 80%;
+    border-radius: 50%;
+    background-color:rgb(241, 235, 232) ;
+}
+.li{
+    width: 10%;
+    color: black;
+}
+.links{
+    color: rgb(77, 167, 219);
+}
+.color{
+    color:yellow;
+}
+.skills{
+    display: flex;
+    gap:5%;
+    text-decoration: solid;
+    color: white;
+    margin-top: 3%;
+    background-color:rgb(3, 4, 78);
+    text-align: center;
+}
+.technology{
+    display:flex;
+    gap: 15%;
+    font-size:large;
+}
+.three{
+    color: yellow;
+}
+
+
+.baton1{
+    padding:2%;
+    text-decoration: none;
+    color: white;
+    background-color: green;
+}
